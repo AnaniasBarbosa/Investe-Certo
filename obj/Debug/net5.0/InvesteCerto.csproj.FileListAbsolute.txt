@@ -1,0 +1,16 @@
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\InvesteCerto.exe
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\InvesteCerto.deps.json
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\InvesteCerto.runtimeconfig.json
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\InvesteCerto.runtimeconfig.dev.json
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\InvesteCerto.dll
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\ref\InvesteCerto.dll
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\bin\Debug\net5.0\InvesteCerto.pdb
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.csproj.AssemblyReference.cache
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.AssemblyInfoInputs.cache
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.AssemblyInfo.cs
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.csproj.CoreCompileInputs.cache
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.dll
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\ref\InvesteCerto.dll
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.pdb
+C:\Users\Ananias\Documents\PROGRAMAÇÃO\PROJETOS PESSOAIS\.NET\TESTE\INVESTECERTO\InvesteCerto\obj\Debug\net5.0\InvesteCerto.genruntimeconfig.cache
